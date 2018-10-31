@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shi Hu"
+title                    : "Shi Hu Projects"
 title_separator          : "-"
 name                     : "Luís Sá"
 description              : "Feel free to bookmark my website to keep an eye on my project updates."
