@@ -92,7 +92,13 @@ social:
   links: # An array of links to social media profiles
 
 # Google Analytics
-google_analytics: UA-128366294-1
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-128366294-1"
+    anonymize_ip: false # default
+
+
 
 
 # Site Author
