@@ -1,7 +1,7 @@
 ---
 title: "About me..."
 permalink: "/about/"
-header: image:"images/coffee.jpg"
+header: image:"/images/coffee.jpg"
 ---
 
 A little bit about my daily mantras/hobbies...
