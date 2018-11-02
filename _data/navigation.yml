@@ -2,9 +2,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Projects"
-    url: /projects/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Posts"
+  #   url: /year-archive/
+  # - title: "Projects"
+  #   url: /projects/
+  # - title: "Sitemap"
+  #   url: /sitemap/
