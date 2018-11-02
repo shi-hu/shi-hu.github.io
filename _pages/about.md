@@ -2,7 +2,7 @@
 title: "About me..."
 permalink: "/about/"
 
-
+##
 A little bit about my daily mantras/hobbies...
 
 From individual to social, but always challenging, these include: Gym/CrossFit, Kick Boxing, Lindy Hop dancing, an enormous passion for cooking (a lot), photography and handcraft.
