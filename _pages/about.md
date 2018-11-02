@@ -10,3 +10,4 @@ From individual to social, but always challenging, these include: Gym/CrossFit, 
 
 
 You can check me, online, on [Linkedin](https://www.linkedin.com/in/lsa003/) where you can see (and download) my full resume.
+[CV]() & [Motivation Letter]()
