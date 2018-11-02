@@ -2,8 +2,6 @@
 title: "Comming Soon"
 date: 2018-10-31
 tags: [data science, halloween, portfolio]
-header:
-  image: "/images/"
 excerpt: "Data Science, Portfolio"
 ---
 
@@ -22,6 +20,4 @@ library(xgboost) # for xgboost
 ```
 <br><br><br>
 The Network of Thrones:
-```
 <img src="{{ site.url }}{{ site.baseurl }}/images/GOT.png" alt="">
-```
