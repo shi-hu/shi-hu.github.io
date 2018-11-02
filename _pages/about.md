@@ -1,8 +1,5 @@
-title: "About"
+title: "About me..."
 permalink: "/about/"
-
-
-## About Me
 
 A little bit about my daily mantras/hobbies...
 
