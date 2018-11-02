@@ -1,7 +1,7 @@
 ---
 title: "About me..."
 permalink: "/about/"
-header: image:"/images/coffee.jpg"
+header: image:"https://instagram.fopo2-1.fna.fbcdn.net/vp/38ce42fd4611e26fdfe337c54e19a62f/5C76AC25/t51.2885-15/e35/14677211_1327175183968647_7945565892736188416_n.jpg"
 ---
 
 A little bit about my daily mantras/hobbies...
