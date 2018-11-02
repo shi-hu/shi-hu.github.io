@@ -1,7 +1,7 @@
-___
+---
 title: "About"
 permalink: "/about/"
-___
+---
 
 ## About Me
 
