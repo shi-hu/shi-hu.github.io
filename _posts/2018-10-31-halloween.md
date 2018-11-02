@@ -20,4 +20,5 @@ library(mice) # for missing data
 library(xgboost) # for xgboost
 ...
 ```
-image: "/images/GOT.png"
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/GOT.png" alt="">
