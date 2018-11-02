@@ -1,7 +1,6 @@
 ---
 title: "About me..."
 permalink: "/about/"
-author_profile: true
 ---
 
 A little bit about my daily mantras/hobbies...
