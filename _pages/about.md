@@ -20,6 +20,6 @@ From individual to social, but always challenging, these include: Gym/CrossFit, 
 
 <figure>
 	<img src="/images/coffee.jpg">
-	<figcaption> A hot coffee in Autum (picture taken in Lisboa in 2016).</figcaption>
+	<figcaption> A hot coffee in Autum (picture taken in Lisboa - 2016).</figcaption>
 </figure>
 
