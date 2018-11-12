@@ -2,7 +2,7 @@
 title: "About me..."
 permalink: "/about/"
 ---
-Hello there! :smile_cat: <br>
+Hello there! :blush: <br>
 Below you can find a little bit about my professional and personal path.
 <br><br>
 # Professional Profile
