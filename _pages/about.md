@@ -5,7 +5,7 @@ permalink: "/about/"
 Hello there! :) <br>
 Below you can find a little bit about my professional and personal path.
 <br><br>
-# Professinal Profile
+# Professional Profile
 Over 10-years experience as an Engineer and Consultant, performing various roles, from technical expert to team leading/manager.
 This experience allowed me to have a greater flexibility in the roles performed, improve my interpersonal relationship skills, namely in communication, team management and leadership, customer management and as well as conflict and time management.
 <br><br>
