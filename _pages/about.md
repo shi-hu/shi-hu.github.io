@@ -11,7 +11,7 @@ This experience allowed me to have a greater flexibility in the roles performed,
 <br><br>
 # Professional History
 Please check my resume here [(link)](/images/CV_Luís_Sá.pdf).<br>
-For more detail, please visit my linkedin profile availabe in the sidebar link above.
+For more detail, please visit my linkedin profile availabe in the sidebar link.
 <br><br>
 # Personal (Hi)story
 A little bit about my daily mantras/hobbies...
