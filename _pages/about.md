@@ -21,17 +21,15 @@ From individual to social, but always challenging, these include: Gym/CrossFit, 
 <figure class="half">
 	<img src="/images/coffee.jpg"> 
   <img src="/images/london_2014.jpg">
+  <figcaption> Things I love - 1: A hot Autumn coffee in Lisboa (Pic. 1) and London's Big Ben (Pic. 2) </figcaption>
 </figure>
 <figure class="half">
   <img src="/images/concert_porto.jpg">
 	<img src="/images/porto.png">
+  <figcaption> Things I love - 2: Music and my HOME town. </figcaption>
 </figure>
 <figure class="half">  
   <img src="/images/vegan.jpg">
-  <img src="/images/muffins.jpg">
-</figure>
-<figure class="half">
-  <img src="/images/tiramisu.jpg.">
-  <img src="/images/bahrain.jpg">
-	<figcaption> .</figcaption>
+  <img src="/images/tiramisu.jpg">
+  <figcaption> Things I love - 3: Food... A vegan lunch (Pic. 1) and a homemade Tiramisu (Pic. 2) </figcaption>
 </figure>
