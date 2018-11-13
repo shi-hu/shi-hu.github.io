@@ -19,7 +19,7 @@ A little bit about my daily mantras/hobbies...
 From individual to social, but always challenging, these include: Gym/CrossFit, Kick Boxing, Lindy Hop dancing, an enormous passion for cooking (a lot), photography and handcraft.
 
 <figure class="third">
-	<img src="/images/coffee.jpg">
+	<img src="/images/coffee.jpg" height="42" width="42"> 
   <img src="/images/tiramisu.jpg">
   <img src="/images/concert_porto.jpg">
 </figure>
