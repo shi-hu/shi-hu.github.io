@@ -20,7 +20,7 @@ From individual to social, but always challenging, these include: Gym/CrossFit, 
 
 <figure class="half">
 	<img src="/images/coffee.jpg"> 
-  <img src="/images/london_2014">
+  <img src="/images/london_2014.jpg">
 </figure>
 <figure class="half">
   <img src="/images/concert_porto.jpg">
