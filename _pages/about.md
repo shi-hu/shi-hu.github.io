@@ -18,18 +18,16 @@ A little bit about my daily mantras/hobbies...
 <br><br>
 From individual to social, but always challenging, these include: Gym/CrossFit, Kick Boxing, Lindy Hop dancing, an enormous passion for cooking (a lot), photography and handcraft.
 
-<figure class="half">
+<figure>
 	<img src="/images/coffee.jpg"> 
-  <img src="/images/london_2014.jpg">
-  <figcaption> Things I love - 1: A hot Autumn coffee in Lisboa (Pic. 1) and London's Big Ben (Pic. 2) </figcaption>
+<figcaption> A hot Autumn coffee in Lisboa (2016). </figcaption>
 </figure>
-<figure class="half">
-  <img src="/images/concert_porto.jpg">
-	<img src="/images/porto.png">
-  <figcaption> Things I love - 2: Music and my HOME town. </figcaption>
-</figure>
-<figure class="half">  
+<figure>  
   <img src="/images/vegan.jpg">
-  <img src="/images/tiramisu.jpg">
-  <figcaption> Things I love - 3: Food... A vegan lunch (Pic. 1) and a homemade Tiramisu (Pic. 2) </figcaption>
+  <figcaption> A homemade vegan lunch (2017). </figcaption>
 </figure>
+<figure>
+  <img src="/images/concert_porto.jpg">
+<figcaption> A concert in my home town - Porto (2018). </figcaption>
+</figure>
+
