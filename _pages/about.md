@@ -22,12 +22,3 @@ From individual to social, but always challenging, these include: Gym/CrossFit, 
 	<img src="/images/coffee.jpg"> 
 <figcaption> A hot Autumn coffee in Lisboa (2016). </figcaption>
 </figure>
-<figure>  
-  <img src="/images/vegan.jpg">
-  <figcaption> A homemade vegan lunch (2017). </figcaption>
-</figure>
-<figure>
-  <img src="/images/concert_porto.jpg">
-<figcaption> A concert in my home town - Porto (2018). </figcaption>
-</figure>
-
