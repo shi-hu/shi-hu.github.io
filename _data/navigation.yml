@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Science Portfolio"
-    url: /portfolio/
+  # - title: "Data Science Portfolio"
+  #  url: /portfolio/
   # - title: "Projects"
   #   url: /projects/
   # - title: "Sitemap"
